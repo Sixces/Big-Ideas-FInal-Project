@@ -9,6 +9,6 @@ Vince Sangpachatanaruk - VIS82@pitt.edu
 Canvas Group Number 4
 
 ## Links
-Park Data:
-https://data.wprdc.org/dataset/parks
+Park Data:<br>
+https://data.wprdc.org/dataset/parks<br>
 contains data about location of parks in Allegheny County
