@@ -12,7 +12,7 @@ Canvas Group Number 4
 Neighborhood Data: <br>
 https://data.wprdc.org/dataset/neighborhoods2<br>
 contains data to visualize all neighborhoods in Allegheny County
-<br>
+<br><br>
 Park Data:<br>
 https://data.wprdc.org/dataset/parks<br>
 contains data about location of all parks in Allegheny County
