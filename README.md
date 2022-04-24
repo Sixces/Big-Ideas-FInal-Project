@@ -14,12 +14,13 @@ https://data.wprdc.org/dataset/neighborhoods2<br>
 contains data to visualize all neighborhoods in Allegheny County
 <br><br>
 Sidewalk to Street "Walkability" Ratio Data: <br>
-https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
+https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio<br>
 contains walkability measurements for communities in Allegheny County
 <br><br>
 Fire Incidents in City of Pittsburgh Data: <br>
 https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh<br>
 contains data about incidents of fire responded to by the Pittsburgh Bureau of Fire.
+<br><br>
 Park Data:<br>
 https://data.wprdc.org/dataset/parks<br>
 contains data about location of all parks in Allegheny County
