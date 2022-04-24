@@ -2,9 +2,9 @@
 
 Team Pedestrian
 
-Greg Six - GAS105@pitt.edu, Walkability Metric
-Andre Nguyen - ALN101@pitt.edu, Food Accessability Metric
-Vince Sangpachatanaruk - VIS82@pitt.edu, Park Availability Metric
+Greg Six - GAS105@pitt.edu, Walkability Metric <br>
+Andre Nguyen - ALN101@pitt.edu, Food Accessability Metric <br>
+Vince Sangpachatanaruk - VIS82@pitt.edu, Park Availability Metric <br>
 
 Canvas Group Number 4
 
